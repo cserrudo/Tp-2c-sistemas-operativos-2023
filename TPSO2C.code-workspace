@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "Kernel"
+		},
+		{
+			"path": "Cpu"
+		},
+		{
+			"path": "Filesystem"
+		},
+		{
+			"path": "Memoria"
+		},
+		{
+			"path": "Utils"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"planificador.h": "c",
+			"stdio.h": "c",
+			"stdlib.h": "c",
+			"readline.h": "c",
+			"string.h": "c",
+			"config.h": "c",
+			"flags.h": "c",
+			"buffer.h": "c",
+			"temporal.h": "c",
+			"estados.h": "c",
+			"list.h": "c",
+			"array": "c",
+			"string_view": "c",
+			"initializer_list": "c",
+			"utility": "c",
+			"structs.h": "c",
+			"mman.h": "c",
+			"configkernel.h": "c",
+			"algoritmos.h": "c",
+			"send.h": "c",
+			"ciclo_de_instruccion.h": "c",
+			"concepts": "c" //esto nose que onda, estaba en memoria 2
+			"main.h": "c",
+			"configmemoria.h": "c"
+		}
+	}
+}
